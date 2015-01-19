@@ -1,0 +1,23 @@
+{
+  "name": "doo",
+  "version": "1.0.0",
+  "description": "CoffeeScript library for repeat and delay functions",
+  "main": "./lib/doo.js",
+  "keywords": [
+    "Coffeescript",
+    "sleep",
+    "wait",
+    "iterator",
+    "scripting"
+  ],
+  "author": "Arihant Agarwal <me@arihant.me> (http://arihant.me)",
+  "repository":
+  {
+    "type":"git",
+    "url":"http://github.com/arihantagarwal/doo.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/arihantagarwal/doo/issues"
+  }
+}
